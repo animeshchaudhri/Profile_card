@@ -1,0 +1,12 @@
+.cardsection{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 1rem;
+    border-radius: 16px;
+    padding: 40px;
+    background-color: var(--Dark-Grey);
+
+    min-width: 330px;
+}
